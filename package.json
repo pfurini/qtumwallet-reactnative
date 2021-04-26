@@ -24,7 +24,6 @@
     "path-browserify": "0.0.0",
     "process": "^0.11.0",
     "punycode": "^1.2.4",
-    "qtumjs-wallet": "^0.2.2",
     "querystring-es3": "~0.2.0",
     "react": "17.0.1",
     "react-native": "0.64.0",
@@ -41,7 +40,8 @@
     "tty-browserify": "0.0.0",
     "url": "~0.10.1",
     "util": "~0.10.3",
-    "vm-browserify": "0.0.4"
+    "vm-browserify": "0.0.4",
+    "otijs-wallet": "git+https://github.com/otichain/otijs-wallet"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
